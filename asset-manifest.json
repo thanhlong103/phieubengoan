@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phieubengoan/static/css/main.e6c13ad2.css",
+    "main.js": "/phieubengoan/static/js/main.a8daee33.js",
+    "static/js/453.689b7bfe.chunk.js": "/phieubengoan/static/js/453.689b7bfe.chunk.js",
+    "index.html": "/phieubengoan/index.html",
+    "main.e6c13ad2.css.map": "/phieubengoan/static/css/main.e6c13ad2.css.map",
+    "main.a8daee33.js.map": "/phieubengoan/static/js/main.a8daee33.js.map",
+    "453.689b7bfe.chunk.js.map": "/phieubengoan/static/js/453.689b7bfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a8daee33.js"
+  ]
+}
